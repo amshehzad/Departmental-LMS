@@ -2,16 +2,15 @@
 FuuastLib is a Departmental Library Management System built with core Php.
 
 ## Summary
-FuuastLib is a very **Lightweight Library Management System** built to practice & enhance my *Php* and *Bootstrap* skills.
-This is a simple *Library Management System* with some basic features.
-Some of which are listed below:
-> - New book can be added
-> - Users can add or remove a new post, 
-> - like other posts by other users, 
-> - comment on it, 
-> - like and delete  a comment. 
-> -Eevery user can see his profile where all of his posts will apper only.
-> - A newsfeed section where user will be able to see all the posts made by all other users.
+FuuastLib is a very **Simple Library Management System** built to practice & enhance my *Php* and *Bootstrap* skills.
+Some of its features are listed below:
+> - Books can be **Filtered** by categories
+> - Books can be **Searched** by Author or Name 
+> - Different **Reports** can be generated e,g List of Issued Books , Defaulter Students or List of students who have books  
+> - New students can be **Registered** in a Library
+> - Issued Books will be displayed on a student profile.
+> - Fine will be **Calculated Automatically** after the due date.
+> - Always **Randomly Selected** Books will be display on home screen.
 
 ## Setup
 In order to run this application you must have a **xampp** or any other local server setup installed in your system.Copy a file called 
