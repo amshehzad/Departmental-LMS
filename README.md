@@ -16,12 +16,11 @@ Some of its features are listed below:
 In order to run this application you must have a **xampp** or any other local server setup installed in your system.Copy a file called 
 `cslib.sql` from `FuuastLib/db/` which contains all the queries required to create a database structure and some seed data,
 export it to your server so that the database would be created for this app on your server.
-use:
+use following credential details for login:
 ```
 username : Admin
 password : admin
 ```
-for Login or Signup for a new account and then you are good to go.
 
 ## Sample Screens
 ![*Book Details*](https://github.com/amshehzad/FuuastLib/blob/master/img/screenshots/book-detail.JPG)
