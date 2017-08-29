@@ -7,6 +7,7 @@ include 'inc/header.php';
 
 $query = "Select * from `categories`";
 $result = $db->query($query);
+$result = $db->query($query);
 
 while ($row = $result->fetch_assoc())
 {
